@@ -1,2 +1,2 @@
-# Blogger Crypto Addict and A Photography Lover
+# Blogger Crypto Addict and Photography Lover
 Blog Tentang Cryptocurrency Blockchain Hive dan Photography 
