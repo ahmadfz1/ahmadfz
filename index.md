@@ -1,4 +1,4 @@
-## Blogger Crypto Addict A Photography Lover
+## Blogger Crypto Addict Photography Lover
 
 You can use the [editor on GitHub](https://github.com/ahmadfz1/ahmadfz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
