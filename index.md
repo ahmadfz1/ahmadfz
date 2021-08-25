@@ -1,8 +1,7 @@
-## Blogger Crypto Addict Photography Lover
+## Pelatihan Sosial Media Blogging Hive 
+# Mengenal Apa Itu Hive? 
+Apa itu Hive? Hive adalah sosial media blogging yang memberikan reward kepada penggunanya dengan mata uang kriptocurrency Hive dan Hive Back Dollar (HBD). Dari mana datangya reward? Reward berasal dari Upvote atau like pengguna lainya yang mempunyai power besar. Hive dan HBD akan dicetak sesuai dengan inflasi yang ditentukan oleh sistem. Hive dan HBD bisa di perdagangkan di pertukaran mata uang kripto seperti Indodax, bittrex dan pertukaran lainya. 
 
-You can use the [editor on GitHub](https://github.com/ahmadfz1/ahmadfz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
