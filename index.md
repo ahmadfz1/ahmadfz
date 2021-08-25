@@ -5,7 +5,7 @@ Apa itu Hive? Hive adalah sosial media blogging yang memberikan reward kepada pe
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for n
 
 ```markdown
 Syntax highlighted code block
